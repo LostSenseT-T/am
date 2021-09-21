@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="file:///F:/Builds/AMH/AmazingMeet/Amazing Meet_arm.appinstaller"
+	Uri="https://lostsenset-t.github.io/am/Amazing_Meet_arm.appinstaller"
 	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="AmazingMeetHeadset"
 		Version="1.0.0.0"
 		Publisher="CN=WeAR"
-		Uri="file:///F:/Builds/AMH/AmazingMeet/Amazing Meet_1.0.0.0_ARM_Test/Amazing Meet_1.0.0.0_ARM.msix"
+		Uri="https://lostsenset-t.github.io/am/Amazing_Meet_1.0.0.0_ARM_Test/Amazing_Meet_1.0.0.0_ARM.msix"
 		ProcessorArchitecture="arm" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="arm"
-			Uri="file:///F:/Builds/AMH/AmazingMeet/Amazing Meet_1.0.0.0_ARM_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
+			Uri="https://lostsenset-t.github.io/am/Amazing_Meet_1.0.0.0_ARM_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
 			Version="14.0.30035.0" />
 	</Dependencies>
 	<UpdateSettings>
